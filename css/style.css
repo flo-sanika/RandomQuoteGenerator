@@ -1,0 +1,24 @@
+body {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+}
+body main {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+}
+body main h1 {
+  text-align: center;
+}
+body main hr {
+  width: 100%;
+}
+body main .button {
+  width: 90%;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+
+
+    main {
+        background-color: #fff;
+
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        align-items: center;
+
+        h1 {
+            text-align: center;
+        }
+        hr {
+            width: 100%;
+        }
+        .button {
+            width: 90%;
+            margin-top: 10px;
+
+        }
+    }
+}
