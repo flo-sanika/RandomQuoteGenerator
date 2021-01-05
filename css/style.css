@@ -7,18 +7,22 @@ body main {
   background-color: #fff;
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 400px;
+  min-height: 400px;
   align-items: center;
+}
+body main #quote {
+  width: 95%;
 }
 body main h1 {
   text-align: center;
 }
 body main hr {
-  width: 100%;
+  width: 95%;
 }
 body main .button {
   width: 90%;
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
